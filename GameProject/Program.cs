@@ -45,7 +45,7 @@ namespace GameProject
 			saleManager.Sale(sale2);
 			saleManager.Sale(sale3);
 
-
+			  
 		}
 	}
 }
